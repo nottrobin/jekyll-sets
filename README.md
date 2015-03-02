@@ -1,4 +1,4 @@
-Jekyll demo
+Jekyll version numbers demo
 ===
 
 Just an example of how you could dynamically include a version number and description in a Github page.
